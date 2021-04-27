@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmiteshBadkul
-- 👀 I’m interested in: Deep Learning and it's Application
+- 👀 I’m interested in: Deep Learning and it's Applications
 - 🌱 I’m currently learning: Interdisciplinary Applications of DL
 - 📫 How to reach me: Email: [Amitesh Badkul](mailto:f20180764@hyderabad.bits-pilani.ac.in), LinkedIn: [Amitesh Badkul](https://www.linkedin.com/in/amitesh-badkul)
 <!--- 💞️ I’m looking to collaborate on ...---!>
